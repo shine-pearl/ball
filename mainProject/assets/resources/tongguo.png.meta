@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c730f07d-22a3-4ff0-b535-5f2e08c25034",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "tongguo": {
+      "ver": "1.0.4",
+      "uuid": "6d19c38e-e205-4d0d-81ee-26227501ea41",
+      "rawTextureUuid": "c730f07d-22a3-4ff0-b535-5f2e08c25034",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 4,
+      "trimY": 5,
+      "width": 288,
+      "height": 93,
+      "rawWidth": 297,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
